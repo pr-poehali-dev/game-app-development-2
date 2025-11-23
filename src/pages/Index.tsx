@@ -60,6 +60,22 @@ const gamesData: Game[] = [
   { id: 14, title: 'Super Mario Odyssey', platform: 'Nintendo', genre: 'Платформер', rating: 9.7, year: 2017, image: 'https://cdn.poehali.dev/projects/57aa85cf-f6c1-45a0-8a83-b8fb972235fe/files/019613cd-6d9e-4c89-948b-6ec700a98eb8.jpg', description: 'Путешествие Марио', downloadUrl: '#', size: '5.7 GB' },
   { id: 15, title: 'Animal Crossing: New Horizons', platform: 'Nintendo', genre: 'Симулятор', rating: 9.0, year: 2020, image: '/placeholder.svg', description: 'Жизнь на острове', downloadUrl: '#', size: '6.2 GB' },
   { id: 16, title: 'Splatoon 3', platform: 'Nintendo', genre: 'Шутер', rating: 8.8, year: 2022, image: '/placeholder.svg', description: 'Красочный мультиплеер', downloadUrl: '#', size: '4.3 GB' },
+  { id: 69, title: 'The Legend of Zelda: Tears of the Kingdom', platform: 'Nintendo', genre: 'Приключения', rating: 9.9, year: 2023, image: '/placeholder.svg', description: 'Новая глава Зельды', downloadUrl: '#', size: '16.2 GB' },
+  { id: 70, title: 'Super Smash Bros Ultimate', platform: 'Nintendo', genre: 'Файтинг', rating: 9.5, year: 2018, image: '/placeholder.svg', description: 'Грандиозная драка', downloadUrl: '#', size: '16.5 GB' },
+  { id: 71, title: 'Metroid Dread', platform: 'Nintendo', genre: 'Экшен', rating: 9.1, year: 2021, image: '/placeholder.svg', description: 'Возвращение Самус', downloadUrl: '#', size: '4.1 GB' },
+  { id: 72, title: 'Mario Kart 8 Deluxe', platform: 'Nintendo', genre: 'Гонки', rating: 9.3, year: 2017, image: '/placeholder.svg', description: 'Лучшие картинговые гонки', downloadUrl: '#', size: '6.8 GB' },
+  { id: 73, title: 'Pokemon Legends Arceus', platform: 'Nintendo', genre: 'RPG', rating: 8.8, year: 2022, image: '/placeholder.svg', description: 'Покемоны в открытом мире', downloadUrl: '#', size: '6.5 GB' },
+  { id: 74, title: 'Pokemon Scarlet/Violet', platform: 'Nintendo', genre: 'RPG', rating: 8.6, year: 2022, image: '/placeholder.svg', description: '9 поколение покемонов', downloadUrl: '#', size: '7.0 GB' },
+  { id: 75, title: 'Fire Emblem Three Houses', platform: 'Nintendo', genre: 'Тактическая RPG', rating: 9.2, year: 2019, image: '/placeholder.svg', description: 'Тактическая RPG', downloadUrl: '#', size: '11.8 GB' },
+  { id: 76, title: 'Xenoblade Chronicles 3', platform: 'Nintendo', genre: 'RPG', rating: 9.0, year: 2022, image: '/placeholder.svg', description: 'Эпическая JRPG', downloadUrl: '#', size: '15.1 GB' },
+  { id: 77, title: 'Bayonetta 3', platform: 'Nintendo', genre: 'Экшен', rating: 8.7, year: 2022, image: '/placeholder.svg', description: 'Стильный слэшер', downloadUrl: '#', size: '14.9 GB' },
+  { id: 78, title: 'Kirby and the Forgotten Land', platform: 'Nintendo', genre: 'Платформер', rating: 8.9, year: 2022, image: '/placeholder.svg', description: 'Розовый герой в 3D', downloadUrl: '#', size: '5.8 GB' },
+  { id: 79, title: 'Luigi Mansion 3', platform: 'Nintendo', genre: 'Приключения', rating: 8.8, year: 2019, image: '/placeholder.svg', description: 'Охота на призраков', downloadUrl: '#', size: '6.3 GB' },
+  { id: 80, title: 'Donkey Kong Country Tropical Freeze', platform: 'Nintendo', genre: 'Платформер', rating: 9.0, year: 2018, image: '/placeholder.svg', description: 'Классический платформер', downloadUrl: '#', size: '6.5 GB' },
+  { id: 81, title: 'Pikmin 4', platform: 'Nintendo', genre: 'Стратегия', rating: 8.9, year: 2023, image: '/placeholder.svg', description: 'Приключения Пикминов', downloadUrl: '#', size: '6.6 GB' },
+  { id: 82, title: 'Mario + Rabbids Kingdom Battle', platform: 'Nintendo', genre: 'Тактическая', rating: 8.6, year: 2017, image: '/placeholder.svg', description: 'Марио встречает кроликов', downloadUrl: '#', size: '2.5 GB' },
+  { id: 83, title: 'Hyrule Warriors Age of Calamity', platform: 'Nintendo', genre: 'Экшен', rating: 8.4, year: 2020, image: '/placeholder.svg', description: 'Приквел Breath of the Wild', downloadUrl: '#', size: '13.2 GB' },
+  { id: 84, title: 'Octopath Traveler', platform: 'Nintendo', genre: 'RPG', rating: 8.7, year: 2018, image: '/placeholder.svg', description: 'Ретро JRPG', downloadUrl: '#', size: '3.2 GB' },
 ];
 
 const Index = () => {
